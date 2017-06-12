@@ -7,5 +7,6 @@ public class Main {
 
        // klkl;
         System.out.println("tcnm");
+        System.out.println("edit");
     }
 }
