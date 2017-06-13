@@ -9,5 +9,6 @@ public class Main {
         System.out.println("tcnm");
         System.out.println("edit");
         System.out.println("edit");
+        System.out.println("dddd");
     }
 }
